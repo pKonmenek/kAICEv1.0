@@ -1,0 +1,40 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>assets/user32_dark.png</file>
+    <file>assets/user_dark.png</file>
+    <file>assets/user.png</file>
+    <file>assets/about_dark.png</file>
+    <file>assets/chatbot_dark.png</file>
+    <file>assets/send_dark.png</file>
+    <file>assets/technical-support_dark.png</file>
+    <file>assets/user_dark.png</file>
+    <file>assets/padlock_dark.png</file>
+    <file>assets/arroba_dark.png</file>
+    <file>assets/menu_dark.png</file>
+    <file>assets/bar-chart_dark.png</file>
+    <file>assets/speech-bubble_dark.png</file>
+    <file>assets/bot-bg.png</file>
+    <file>assets/upload-dark.png</file>
+    <file>assets/send.png</file>
+    <file>assets/upload.png</file>
+    <file>assets/back.png</file>
+    <file>assets/arroba.png</file>
+    <file>assets/user32.png</file>
+    <file>assets/chatbot.png</file>
+    <file>assets/user128.png</file>
+    <file>assets/padlock.png</file>
+    <file>assets/speech-bubble.png</file>
+    <file>assets/about.png</file>
+    <file>assets/bot.png</file>
+    <file>assets/user512.png</file>
+    <file>assets/bar-chart.png</file>
+    <file>assets/dark-mode.png</file>
+    <file>assets/dialogue.png</file>
+    <file>assets/down-filled-triangular-arrow.png</file>
+    <file>assets/menu.png</file>
+    <file>assets/moon.png</file>
+    <file>assets/power-button.png</file>
+    <file>assets/technical-support.png</file>
+    <file>assets/user.png</file>
+  </qresource>
+</RCC>

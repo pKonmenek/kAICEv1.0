@@ -1,0 +1,18 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\kouam\\OneDrive\\Bureau\\Jobs\\VIRTUALS\\perrin\\Scripts\\python",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "test",
+            "database": "phpmyadmin",
+            "username": "sqltools",
+            "password": "kofra1509"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+.main-content {
+	
+	/* background-color: rgb(36, 41, 58); */
+}
+
+.bouton-sm {
+	border: none;
+	color:#BEDFE4;
+	font-weight: bold;
+}
+
+.bouton-sm:hover {
+    border: 1px solid skyblue;
+}
+
+.bouton-sm:hover {
+	/* background-color: rgb(57, 64, 85); */
+}
+
+.bouton {
+	border: 1px solid skyblue;
+	color: skyblue;
+	border-radius: 5px;
+}
+
+.bouton:hover {
+	/* background-color: rgb(57, 64, 85); */
+}
+
+.icon-btn {
+	border: none;
+}
+
+.h-line {
+	background-color: skyblue;
+}
+
+.sm-frame {
+	
+	/* background-color: rgb(43, 52, 70); */
+}
+
+.header-frame {
+	
+	/* background-color: rgb(57, 64, 85); */
+}
+
+.wellcome-page {
+	/* background-color: transparent; */
+	border-image: url("./assets/bot-bg.png") 0 0 0 0 stretch stretch;
+}
+
+.widget-bg {
+	/* background-color: transparent; */
+}
+
+
+.text-entry {
+	/* color: #BEDFE4; */
+	/* background-color: rgb(36, 41, 58); */
+	border: 1px solid #BEDFE4;
+	border-radius: 5px;
+}
+
+.error-text {
+	color: red;
+}
+
+.label-text {
+	color: #BEDFE4;
+	font-weight: bold;
+}
+
+.chip {
+	border: 1px solid black;
+	color: blueviolet;
+	border-radius: 5px;
+}

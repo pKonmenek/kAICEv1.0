@@ -1,0 +1,6 @@
+./src/driver
+./src/'C:\Users\K. Perrin\AppData\Local\Google\Chrome\User Data\Default'
+./.vscode
+./webdrivers/*
+./database/messages.db
+./*__pycache__

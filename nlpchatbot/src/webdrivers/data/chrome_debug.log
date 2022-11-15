@@ -1,0 +1,5 @@
+[11604:8508:0716/114125.105:ERROR:device_event_log_impl.cc(214)] [11:41:25.109] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[11604:8508:0716/114125.113:ERROR:device_event_log_impl.cc(214)] [11:41:25.114] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[11604:8508:0716/114125.373:ERROR:device_event_log_impl.cc(214)] [11:41:25.377] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+[11604:8508:0716/114141.560:WARNING:controller_impl.cc(1190)] Background download complete, client: 6, completion type: 0, file size:265060
+[11604:8508:0716/114155.162:WARNING:controller_impl.cc(1190)] Background download complete, client: 6, completion type: 0, file size:47329282

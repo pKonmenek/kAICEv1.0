@@ -1,0 +1,6 @@
+2022/07/19-20:15:37.206 1318 Reusing MANIFEST D:\Mon_STAGE_IAI\KAICE\nlpchatbot\src\webdrivers\data\Default\Local Storage\leveldb/MANIFEST-000001
+2022/07/19-20:15:37.208 1318 Recovering log #10
+2022/07/19-20:15:37.425 1318 Reusing old log D:\Mon_STAGE_IAI\KAICE\nlpchatbot\src\webdrivers\data\Default\Local Storage\leveldb/000010.log 
+2022/07/19-21:04:51.162 3db0 Level-0 table #14: started
+2022/07/19-21:04:51.326 3db0 Level-0 table #14: 12287 bytes OK
+2022/07/19-21:04:51.490 3db0 Delete type=0 #10
